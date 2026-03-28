@@ -1,0 +1,722 @@
+[
+  {
+    "id": "unilag",
+    "name": "University of Lagos",
+    "slug": "university-of-lagos",
+    "acronym": "UNILAG",
+    "type": "federal",
+    "state": "Lagos",
+    "departments": ["Accounting", "Biochemistry", "Business Administration", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Electrical Engineering", "English", "Law", "Mass Communication", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Pharmacy", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "ui",
+    "name": "University of Ibadan",
+    "slug": "university-of-ibadan",
+    "acronym": "UI",
+    "type": "federal",
+    "state": "Oyo",
+    "departments": ["Agricultural Science", "Biochemistry", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "Geology", "History", "Law", "Linguistics", "Mathematics", "Medicine & Surgery", "Microbiology", "Pharmacy", "Philosophy", "Physics", "Political Science", "Psychology", "Sociology", "Statistics"]
+  },
+  {
+    "id": "abu",
+    "name": "Ahmadu Bello University",
+    "slug": "ahmadu-bello-university",
+    "acronym": "ABU",
+    "type": "federal",
+    "state": "Kaduna",
+    "departments": ["Accounting", "Agricultural Science", "Architecture", "Biochemistry", "Biology", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Education", "Electrical Engineering", "English", "Fine Arts", "Geography", "Geology", "History", "Law", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Pharmacy", "Physics", "Political Science", "Sociology", "Statistics"]
+  },
+  {
+    "id": "unn",
+    "name": "University of Nigeria, Nsukka",
+    "slug": "university-of-nigeria-nsukka",
+    "acronym": "UNN",
+    "type": "federal",
+    "state": "Enugu",
+    "departments": ["Accounting", "Agricultural Science", "Biochemistry", "Biology", "Business Administration", "Chemical Engineering", "Chemistry", "Computer Science", "Economics", "Education", "Electrical Engineering", "English", "Fine Arts", "Geography", "Geology", "History", "Law", "Library Science", "Linguistics", "Mass Communication", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Pharmacy", "Philosophy", "Physics", "Political Science", "Psychology", "Public Administration", "Sociology", "Statistics", "Theatre Arts"]
+  },
+  {
+    "id": "oau",
+    "name": "Obafemi Awolowo University",
+    "slug": "obafemi-awolowo-university",
+    "acronym": "OAU",
+    "type": "federal",
+    "state": "Osun",
+    "departments": ["Agricultural Science", "Architecture", "Biochemistry", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Education", "Electrical Engineering", "English", "Geography", "Geology", "History", "Law", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Nursing", "Pharmacy", "Philosophy", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "uniben",
+    "name": "University of Benin",
+    "slug": "university-of-benin",
+    "acronym": "UNIBEN",
+    "type": "federal",
+    "state": "Edo",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Education", "Electrical Engineering", "English", "Environmental Science", "Geography", "Geology", "Law", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Nursing", "Pharmacy", "Physics", "Political Science", "Public Administration", "Sociology"]
+  },
+  {
+    "id": "unilorin",
+    "name": "University of Ilorin",
+    "slug": "university-of-ilorin",
+    "acronym": "UNILORIN",
+    "type": "federal",
+    "state": "Kwara",
+    "departments": ["Accounting", "Agricultural Science", "Biochemistry", "Biology", "Business Administration", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Education", "Electrical Engineering", "English", "Geography", "Geology", "History", "Law", "Library Science", "Linguistics", "Mass Communication", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Pharmacy", "Physics", "Political Science", "Sociology", "Statistics"]
+  },
+  {
+    "id": "futminna",
+    "name": "Federal University of Technology, Minna",
+    "slug": "federal-university-of-technology-minna",
+    "acronym": "FUTMINNA",
+    "type": "federal",
+    "state": "Niger",
+    "departments": ["Agricultural Science", "Architecture", "Biochemistry", "Biology", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Electrical Engineering", "Environmental Science", "Geography", "Geology", "Industrial Chemistry", "Mathematics", "Mechanical Engineering", "Microbiology", "Physics", "Statistics"]
+  },
+  {
+    "id": "futa",
+    "name": "Federal University of Technology, Akure",
+    "slug": "federal-university-of-technology-akure",
+    "acronym": "FUTA",
+    "type": "federal",
+    "state": "Ondo",
+    "departments": ["Agricultural Science", "Architecture", "Biochemistry", "Biology", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Electrical Engineering", "Environmental Science", "Geography", "Geology", "Industrial Chemistry", "Mathematics", "Mechanical Engineering", "Microbiology", "Physics", "Statistics"]
+  },
+  {
+    "id": "funaab",
+    "name": "Federal University of Agriculture, Abeokuta",
+    "slug": "federal-university-of-agriculture-abeokuta",
+    "acronym": "FUNAAB",
+    "type": "federal",
+    "state": "Ogun",
+    "departments": ["Accounting", "Agricultural Science", "Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Environmental Science", "Mathematics", "Microbiology", "Nutrition & Dietetics", "Physics", "Statistics"]
+  },
+  {
+    "id": "unijos",
+    "name": "University of Jos",
+    "slug": "university-of-jos",
+    "acronym": "UNIJOS",
+    "type": "federal",
+    "state": "Plateau",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "Geology", "History", "Law", "Linguistics", "Mathematics", "Medicine & Surgery", "Microbiology", "Nursing", "Pharmacy", "Philosophy", "Physics", "Political Science", "Psychology", "Sociology", "Theatre Arts"]
+  },
+  {
+    "id": "unical",
+    "name": "University of Calabar",
+    "slug": "university-of-calabar",
+    "acronym": "UNICAL",
+    "type": "federal",
+    "state": "Cross River",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "Geology", "History", "Law", "Linguistics", "Mathematics", "Medicine & Surgery", "Microbiology", "Nursing", "Pharmacy", "Physics", "Political Science", "Psychology", "Public Administration", "Sociology", "Theatre Arts"]
+  },
+  {
+    "id": "uniuyo",
+    "name": "University of Uyo",
+    "slug": "university-of-uyo",
+    "acronym": "UNIUYO",
+    "type": "federal",
+    "state": "Akwa Ibom",
+    "departments": ["Accounting", "Agricultural Science", "Biochemistry", "Biology", "Business Administration", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Education", "Electrical Engineering", "English", "Fine Arts", "Geography", "History", "Law", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Pharmacy", "Philosophy", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "unimaid",
+    "name": "University of Maiduguri",
+    "slug": "university-of-maiduguri",
+    "acronym": "UNIMAID",
+    "type": "federal",
+    "state": "Borno",
+    "departments": ["Accounting", "Agricultural Science", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Education", "Electrical Engineering", "English", "Geography", "Geology", "History", "Law", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Nursing", "Pharmacy", "Physics", "Political Science", "Public Administration", "Sociology", "Statistics"]
+  },
+  {
+    "id": "udusok",
+    "name": "Usmanu Danfodiyo University, Sokoto",
+    "slug": "usmanu-danfodiyo-university-sokoto",
+    "acronym": "UDUSOK",
+    "type": "federal",
+    "state": "Sokoto",
+    "departments": ["Accounting", "Agricultural Science", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mathematics", "Medicine & Surgery", "Microbiology", "Nursing", "Pharmacy", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "buk",
+    "name": "Bayero University, Kano",
+    "slug": "bayero-university-kano",
+    "acronym": "BUK",
+    "type": "federal",
+    "state": "Kano",
+    "departments": ["Accounting", "Agricultural Science", "Biochemistry", "Biology", "Business Administration", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Education", "Electrical Engineering", "English", "Geography", "History", "Law", "Library Science", "Linguistics", "Mass Communication", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Pharmacy", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "fuoye",
+    "name": "Federal University Oye-Ekiti",
+    "slug": "federal-university-oye-ekiti",
+    "acronym": "FUOYE",
+    "type": "federal",
+    "state": "Ekiti",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Electrical Engineering", "English", "Geography", "Geology", "Law", "Mathematics", "Mechanical Engineering", "Microbiology", "Physics", "Political Science", "Public Administration"]
+  },
+  {
+    "id": "fulafia",
+    "name": "Federal University of Lafia",
+    "slug": "federal-university-of-lafia",
+    "acronym": "FULafia",
+    "type": "federal",
+    "state": "Nasarawa",
+    "departments": ["Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "Geology", "History", "Mathematics", "Microbiology", "Physics", "Political Science", "Sociology", "Statistics"]
+  },
+  {
+    "id": "fukashere",
+    "name": "Federal University, Kashere",
+    "slug": "federal-university-kashere",
+    "acronym": "FUKashere",
+    "type": "federal",
+    "state": "Gombe",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "Geology", "History", "Mathematics", "Microbiology", "Physics", "Political Science", "Statistics"]
+  },
+  {
+    "id": "fudutse",
+    "name": "Federal University, Dutse",
+    "slug": "federal-university-dutse",
+    "acronym": "FUDutse",
+    "type": "federal",
+    "state": "Jigawa",
+    "departments": ["Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "fudutsinma",
+    "name": "Federal University, Dutsin-Ma",
+    "slug": "federal-university-dutsin-ma",
+    "acronym": "FUDutsin-Ma",
+    "type": "federal",
+    "state": "Katsina",
+    "departments": ["Agricultural Science", "Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Microbiology", "Physics", "Political Science", "Statistics"]
+  },
+  {
+    "id": "fugusau",
+    "name": "Federal University, Gusau",
+    "slug": "federal-university-gusau",
+    "acronym": "FUGusau",
+    "type": "federal",
+    "state": "Zamfara",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Microbiology", "Physics", "Political Science"]
+  },
+  {
+    "id": "fuotuoke",
+    "name": "Federal University, Otuoke",
+    "slug": "federal-university-otuoke",
+    "acronym": "FUOtuoke",
+    "type": "federal",
+    "state": "Bayelsa",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Microbiology", "Physics", "Political Science", "Public Administration", "Sociology"]
+  },
+  {
+    "id": "fuwukari",
+    "name": "Federal University, Wukari",
+    "slug": "federal-university-wukari",
+    "acronym": "FUWukari",
+    "type": "federal",
+    "state": "Taraba",
+    "departments": ["Agricultural Science", "Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "History", "Mathematics", "Microbiology", "Physics", "Political Science", "Sociology", "Statistics"]
+  },
+  {
+    "id": "fupre",
+    "name": "Federal University of Petroleum Resources, Effurun",
+    "slug": "federal-university-of-petroleum-resources-effurun",
+    "acronym": "FUPRE",
+    "type": "federal",
+    "state": "Delta",
+    "departments": ["Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Electrical Engineering", "Environmental Science", "Geology", "Industrial Chemistry", "Mechanical Engineering", "Physics"]
+  },
+  {
+    "id": "futoa",
+    "name": "Federal University of Technology, Owerri",
+    "slug": "federal-university-of-technology-owerri",
+    "acronym": "FUTO",
+    "type": "federal",
+    "state": "Imo",
+    "departments": ["Agricultural Science", "Architecture", "Biochemistry", "Biology", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Electrical Engineering", "Environmental Science", "Geology", "Mathematics", "Mechanical Engineering", "Microbiology", "Physics", "Statistics"]
+  },
+  {
+    "id": "mouau",
+    "name": "Michael Okpara University of Agriculture, Umudike",
+    "slug": "michael-okpara-university-of-agriculture-umudike",
+    "acronym": "MOUAU",
+    "type": "federal",
+    "state": "Abia",
+    "departments": ["Accounting", "Agricultural Science", "Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Environmental Science", "Mathematics", "Microbiology", "Physics", "Statistics"]
+  },
+  {
+    "id": "uniabuja",
+    "name": "University of Abuja",
+    "slug": "university-of-abuja",
+    "acronym": "UNIABUJA",
+    "type": "federal",
+    "state": "FCT",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mathematics", "Medicine & Surgery", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "ndu",
+    "name": "Niger Delta University",
+    "slug": "niger-delta-university",
+    "acronym": "NDU",
+    "type": "state",
+    "state": "Bayelsa",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "Geology", "History", "Law", "Mathematics", "Microbiology", "Nursing", "Pharmacy", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "funai",
+    "name": "Alex Ekwueme Federal University, Ndufu-Alike",
+    "slug": "alex-ekwueme-federal-university-ndufu-alike",
+    "acronym": "FUNAI",
+    "type": "federal",
+    "state": "Ebonyi",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "History", "Law", "Mathematics", "Mass Communication", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "fubirnin-kebbi",
+    "name": "Federal University, Birnin Kebbi",
+    "slug": "federal-university-birnin-kebbi",
+    "acronym": "FUBK",
+    "type": "federal",
+    "state": "Kebbi",
+    "departments": ["Agricultural Science", "Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Microbiology", "Physics", "Political Science"]
+  },
+  {
+    "id": "lasu",
+    "name": "Lagos State University",
+    "slug": "lagos-state-university",
+    "acronym": "LASU",
+    "type": "state",
+    "state": "Lagos",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mass Communication", "Mathematics", "Microbiology", "Philosophy", "Physics", "Political Science", "Public Administration", "Sociology", "Theatre Arts"]
+  },
+  {
+    "id": "rsu",
+    "name": "Rivers State University",
+    "slug": "rivers-state-university",
+    "acronym": "RSU",
+    "type": "state",
+    "state": "Rivers",
+    "departments": ["Accounting", "Architecture", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Electrical Engineering", "English", "Estate Management", "Geography", "Mathematics", "Mechanical Engineering", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "lautech",
+    "name": "Ladoke Akintola University of Technology",
+    "slug": "ladoke-akintola-university-of-technology",
+    "acronym": "LAUTECH",
+    "type": "state",
+    "state": "Oyo",
+    "departments": ["Agricultural Science", "Biochemistry", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Electrical Engineering", "Environmental Science", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Physics", "Statistics"]
+  },
+  {
+    "id": "imsu",
+    "name": "Imo State University",
+    "slug": "imo-state-university",
+    "acronym": "IMSU",
+    "type": "state",
+    "state": "Imo",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mass Communication", "Mathematics", "Medicine & Surgery", "Microbiology", "Philosophy", "Physics", "Political Science", "Public Administration", "Sociology"]
+  },
+  {
+    "id": "aasu",
+    "name": "Adekunle Ajasin University",
+    "slug": "adekunle-ajasin-university",
+    "acronym": "AAUA",
+    "type": "state",
+    "state": "Ondo",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mathematics", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "eksu",
+    "name": "Ekiti State University",
+    "slug": "ekiti-state-university",
+    "acronym": "EKSU",
+    "type": "state",
+    "state": "Ekiti",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "Geology", "History", "Law", "Mathematics", "Medicine & Surgery", "Microbiology", "Nursing", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "delsu",
+    "name": "Delta State University",
+    "slug": "delta-state-university",
+    "acronym": "DELSU",
+    "type": "state",
+    "state": "Delta",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "Geology", "History", "Law", "Library Science", "Mass Communication", "Mathematics", "Medicine & Surgery", "Microbiology", "Philosophy", "Physics", "Political Science", "Sociology", "Theatre Arts"]
+  },
+  {
+    "id": "kwasu",
+    "name": "Kwara State University",
+    "slug": "kwara-state-university",
+    "acronym": "KWASU",
+    "type": "state",
+    "state": "Kwara",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Environmental Science", "Geography", "History", "Law", "Mass Communication", "Mathematics", "Microbiology", "Physics", "Political Science", "Sociology", "Statistics"]
+  },
+  {
+    "id": "bsum",
+    "name": "Benue State University",
+    "slug": "benue-state-university",
+    "acronym": "BSUM",
+    "type": "state",
+    "state": "Benue",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mass Communication", "Mathematics", "Microbiology", "Physics", "Political Science", "Psychology", "Sociology"]
+  },
+  {
+    "id": "coou",
+    "name": "Chukwuemeka Odumegwu Ojukwu University",
+    "slug": "chukwuemeka-odumegwu-ojukwu-university",
+    "acronym": "COOU",
+    "type": "state",
+    "state": "Anambra",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mass Communication", "Mathematics", "Medicine & Surgery", "Microbiology", "Philosophy", "Physics", "Political Science", "Public Administration", "Sociology"]
+  },
+  {
+    "id": "oou",
+    "name": "Olabisi Onabanjo University",
+    "slug": "olabisi-onabanjo-university",
+    "acronym": "OOU",
+    "type": "state",
+    "state": "Ogun",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mathematics", "Medicine & Surgery", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "abuad",
+    "name": "Ajayi Crowther University",
+    "slug": "ajayi-crowther-university",
+    "acronym": "ACU",
+    "type": "private",
+    "state": "Oyo",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "English", "Mathematics", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "ebsu",
+    "name": "Ebonyi State University",
+    "slug": "ebonyi-state-university",
+    "acronym": "EBSU",
+    "type": "state",
+    "state": "Ebonyi",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "Geology", "History", "Law", "Mathematics", "Medicine & Surgery", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "uniosun",
+    "name": "Osun State University",
+    "slug": "osun-state-university",
+    "acronym": "UNIOSUN",
+    "type": "state",
+    "state": "Osun",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mathematics", "Microbiology", "Nursing", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "abusu",
+    "name": "Abia State University",
+    "slug": "abia-state-university",
+    "acronym": "ABSU",
+    "type": "state",
+    "state": "Abia",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mathematics", "Microbiology", "Philosophy", "Physics", "Political Science", "Public Administration", "Sociology"]
+  },
+  {
+    "id": "nau",
+    "name": "Nnamdi Azikiwe University",
+    "slug": "nnamdi-azikiwe-university",
+    "acronym": "NAU",
+    "type": "federal",
+    "state": "Anambra",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Education", "Electrical Engineering", "English", "Geography", "History", "Law", "Mass Communication", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Pharmacy", "Philosophy", "Physics", "Political Science", "Public Administration", "Sociology"]
+  },
+  {
+    "id": "gsust",
+    "name": "Gombe State University",
+    "slug": "gombe-state-university",
+    "acronym": "GSU",
+    "type": "state",
+    "state": "Gombe",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "kasu",
+    "name": "Kaduna State University",
+    "slug": "kaduna-state-university",
+    "acronym": "KASU",
+    "type": "state",
+    "state": "Kaduna",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mass Communication", "Mathematics", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "umyu",
+    "name": "Umaru Musa Yar'Adua University",
+    "slug": "umaru-musa-yaradua-university",
+    "acronym": "UMYU",
+    "type": "state",
+    "state": "Katsina",
+    "departments": ["Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Microbiology", "Physics", "Political Science"]
+  },
+  {
+    "id": "plasu",
+    "name": "Plateau State University",
+    "slug": "plateau-state-university",
+    "acronym": "PLASU",
+    "type": "state",
+    "state": "Plateau",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mathematics", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "tasued",
+    "name": "Tai Solarin University of Education",
+    "slug": "tai-solarin-university-of-education",
+    "acronym": "TASUED",
+    "type": "state",
+    "state": "Ogun",
+    "departments": ["Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "covenant",
+    "name": "Covenant University",
+    "slug": "covenant-university",
+    "acronym": "CU",
+    "type": "private",
+    "state": "Ogun",
+    "departments": ["Accounting", "Architecture", "Biochemistry", "Biology", "Business Administration", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Electrical Engineering", "English", "Estate Management", "Industrial Chemistry", "International Relations", "Law", "Mass Communication", "Mathematics", "Mechanical Engineering", "Microbiology", "Physics", "Political Science", "Psychology", "Sociology"]
+  },
+  {
+    "id": "babcock",
+    "name": "Babcock University",
+    "slug": "babcock-university",
+    "acronym": "BU",
+    "type": "private",
+    "state": "Ogun",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "History", "International Relations", "Law", "Mass Communication", "Mathematics", "Medicine & Surgery", "Microbiology", "Nursing", "Physics", "Political Science", "Public Administration", "Sociology"]
+  },
+  {
+    "id": "afe-babalola",
+    "name": "Afe Babalola University",
+    "slug": "afe-babalola-university",
+    "acronym": "ABUAD",
+    "type": "private",
+    "state": "Ekiti",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Electrical Engineering", "English", "International Relations", "Law", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Nursing", "Pharmacy", "Physics", "Political Science"]
+  },
+  {
+    "id": "bowen",
+    "name": "Bowen University",
+    "slug": "bowen-university",
+    "acronym": "Bowen",
+    "type": "private",
+    "state": "Osun",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "History", "Law", "Mass Communication", "Mathematics", "Medicine & Surgery", "Microbiology", "Nursing", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "bells",
+    "name": "Bells University of Technology",
+    "slug": "bells-university-of-technology",
+    "acronym": "BELLS",
+    "type": "private",
+    "state": "Ogun",
+    "departments": ["Biochemistry", "Biology", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Electrical Engineering", "Mathematics", "Mechanical Engineering", "Microbiology", "Physics"]
+  },
+  {
+    "id": "redeemers",
+    "name": "Redeemer's University",
+    "slug": "redeemers-university",
+    "acronym": "RUN",
+    "type": "private",
+    "state": "Osun",
+    "departments": ["Biochemistry", "Biology", "Business Administration", "Chemical Engineering", "Chemistry", "Computer Science", "Economics", "Electrical Engineering", "English", "International Relations", "Mathematics", "Mechanical Engineering", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "pau",
+    "name": "Pan-Atlantic University",
+    "slug": "pan-atlantic-university",
+    "acronym": "PAU",
+    "type": "private",
+    "state": "Lagos",
+    "departments": ["Accounting", "Business Administration", "Computer Science", "Economics", "Electrical Engineering", "English", "Mass Communication", "Mathematics", "Mechanical Engineering", "Philosophy"]
+  },
+  {
+    "id": "aun",
+    "name": "American University of Nigeria",
+    "slug": "american-university-of-nigeria",
+    "acronym": "AUN",
+    "type": "private",
+    "state": "Adamawa",
+    "departments": ["Accounting", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "English", "International Relations", "Law", "Mathematics", "Petroleum Chemistry", "Political Science"]
+  },
+  {
+    "id": "leadcity",
+    "name": "Lead City University",
+    "slug": "lead-city-university",
+    "acronym": "LCU",
+    "type": "private",
+    "state": "Oyo",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "English", "International Relations", "Law", "Mass Communication", "Mathematics", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "igbinedion",
+    "name": "Igbinedion University, Okada",
+    "slug": "igbinedion-university-okada",
+    "acronym": "IUO",
+    "type": "private",
+    "state": "Edo",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "English", "Law", "Mass Communication", "Mathematics", "Medicine & Surgery", "Microbiology", "Nursing", "Pharmacy", "Physics", "Political Science"]
+  },
+  {
+    "id": "biu",
+    "name": "Benson Idahosa University",
+    "slug": "benson-idahosa-university",
+    "acronym": "BIU",
+    "type": "private",
+    "state": "Edo",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Law", "Mass Communication", "Mathematics", "Medicine & Surgery", "Microbiology", "Nursing", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "caleb",
+    "name": "Caleb University",
+    "slug": "caleb-university",
+    "acronym": "Caleb",
+    "type": "private",
+    "state": "Lagos",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "English", "International Relations", "Mass Communication", "Mathematics", "Microbiology", "Physics", "Political Science"]
+  },
+  {
+    "id": "achievers",
+    "name": "Achievers University, Owo",
+    "slug": "achievers-university-owo",
+    "acronym": "AUO",
+    "type": "private",
+    "state": "Ondo",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "English", "Law", "Mathematics", "Microbiology", "Physics", "Political Science"]
+  },
+  {
+    "id": "landmark",
+    "name": "Landmark University",
+    "slug": "landmark-university",
+    "acronym": "LMU",
+    "type": "private",
+    "state": "Kwara",
+    "departments": ["Agricultural Science", "Biochemistry", "Biology", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Electrical Engineering", "Mathematics", "Mechanical Engineering", "Microbiology", "Physics"]
+  },
+  {
+    "id": "samuel-adegboyega",
+    "name": "Samuel Adegboyega University",
+    "slug": "samuel-adegboyega-university",
+    "acronym": "SAU",
+    "type": "private",
+    "state": "Edo",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "English", "Law", "Mass Communication", "Mathematics", "Microbiology", "Physics", "Political Science"]
+  },
+  {
+    "id": "crescent",
+    "name": "Crescent University, Abeokuta",
+    "slug": "crescent-university-abeokuta",
+    "acronym": "CUAB",
+    "type": "private",
+    "state": "Ogun",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "English", "Law", "Mass Communication", "Mathematics", "Microbiology", "Physics", "Political Science"]
+  },
+  {
+    "id": "gouni",
+    "name": "Godfrey Okoye University",
+    "slug": "godfrey-okoye-university",
+    "acronym": "GOUNI",
+    "type": "private",
+    "state": "Enugu",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "International Relations", "Mathematics", "Microbiology", "Philosophy", "Physics", "Political Science"]
+  },
+  {
+    "id": "uniport",
+    "name": "University of Port Harcourt",
+    "slug": "university-of-port-harcourt",
+    "acronym": "UNIPORT",
+    "type": "federal",
+    "state": "Rivers",
+    "departments": ["Accounting", "Agricultural Science", "Biochemistry", "Biology", "Business Administration", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Education", "Electrical Engineering", "English", "Geography", "Geology", "History", "Law", "Linguistics", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Nursing", "Pharmacy", "Philosophy", "Physics", "Political Science", "Psychology", "Sociology", "Theatre Arts"]
+  },
+  {
+    "id": "ambrose-alli",
+    "name": "Ambrose Alli University",
+    "slug": "ambrose-alli-university",
+    "acronym": "AAU",
+    "type": "state",
+    "state": "Edo",
+    "departments": ["Accounting", "Agricultural Science", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mathematics", "Medicine & Surgery", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "nsuk",
+    "name": "Nasarawa State University, Keffi",
+    "slug": "nasarawa-state-university-keffi",
+    "acronym": "NSUK",
+    "type": "state",
+    "state": "Nasarawa",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "Geology", "History", "Law", "Mathematics", "Microbiology", "Physics", "Political Science", "Sociology", "Statistics"]
+  },
+  {
+    "id": "yabatech",
+    "name": "Yaba College of Technology",
+    "slug": "yaba-college-of-technology",
+    "acronym": "YABATECH",
+    "type": "federal",
+    "state": "Lagos",
+    "departments": ["Accounting", "Architecture", "Business Administration", "Chemical Engineering", "Civil Engineering", "Computer Science", "Electrical Engineering", "Estate Management", "Mass Communication", "Mathematics", "Mechanical Engineering", "Statistics"]
+  },
+  {
+    "id": "atbu",
+    "name": "Abubakar Tafawa Balewa University",
+    "slug": "abubakar-tafawa-balewa-university",
+    "acronym": "ATBU",
+    "type": "federal",
+    "state": "Bauchi",
+    "departments": ["Agricultural Science", "Architecture", "Biochemistry", "Biology", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Electrical Engineering", "Environmental Science", "Geology", "Mathematics", "Mechanical Engineering", "Microbiology", "Physics", "Statistics"]
+  },
+  {
+    "id": "tasu",
+    "name": "Taraba State University",
+    "slug": "taraba-state-university",
+    "acronym": "TASU",
+    "type": "state",
+    "state": "Taraba",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Law", "Mathematics", "Microbiology", "Physics", "Political Science"]
+  },
+  {
+    "id": "yobe-su",
+    "name": "Yobe State University",
+    "slug": "yobe-state-university",
+    "acronym": "YSU",
+    "type": "state",
+    "state": "Yobe",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Microbiology", "Physics", "Political Science", "Sociology"]
+  },
+  {
+    "id": "bosu",
+    "name": "Bauchi State University, Gadau",
+    "slug": "bauchi-state-university-gadau",
+    "acronym": "BASUG",
+    "type": "state",
+    "state": "Bauchi",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Microbiology", "Physics", "Political Science"]
+  },
+  {
+    "id": "kust",
+    "name": "Kano University of Science and Technology, Wudil",
+    "slug": "kano-university-of-science-and-technology-wudil",
+    "acronym": "KUST",
+    "type": "state",
+    "state": "Kano",
+    "departments": ["Agricultural Science", "Biochemistry", "Biology", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Electrical Engineering", "Environmental Science", "Mathematics", "Mechanical Engineering", "Microbiology", "Physics", "Statistics"]
+  },
+  {
+    "id": "ssu",
+    "name": "Sokoto State University",
+    "slug": "sokoto-state-university",
+    "acronym": "SSU",
+    "type": "state",
+    "state": "Sokoto",
+    "departments": ["Accounting", "Biochemistry", "Biology", "Business Administration", "Chemistry", "Computer Science", "Economics", "Education", "English", "Geography", "History", "Mathematics", "Microbiology", "Physics", "Political Science"]
+  },
+  {
+    "id": "enugu-state",
+    "name": "Enugu State University of Science and Technology",
+    "slug": "enugu-state-university-of-science-and-technology",
+    "acronym": "ESUT",
+    "type": "state",
+    "state": "Enugu",
+    "departments": ["Accounting", "Agricultural Science", "Architecture", "Biochemistry", "Biology", "Business Administration", "Chemical Engineering", "Chemistry", "Civil Engineering", "Computer Science", "Economics", "Education", "Electrical Engineering", "English", "Environmental Science", "Geography", "Geology", "History", "Law", "Mass Communication", "Mathematics", "Mechanical Engineering", "Medicine & Surgery", "Microbiology", "Pharmacy", "Physics", "Political Science", "Sociology"]
+  }
+]
