@@ -92,7 +92,7 @@ export default function UniversityPage({
           <p className="text-gray-400 mb-2">No lecturers rated yet{dept ? ` in ${dept}` : ""}.</p>
           <p className="text-gray-500 text-sm mb-4">Be the first to share your experience!</p>
           <Link
-            href="/review/new"
+            href={`/review/new?universityId=${university.id}${dept ? `&department=${encodeURIComponent(dept)}` : ""}`}
             className="inline-block bg-naija-green hover:bg-naija-green-dark text-white px-6 py-2 rounded-lg text-sm font-medium transition-colors"
           >
             Rate a Lecturer

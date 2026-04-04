@@ -36,7 +36,7 @@ export async function POST(request: NextRequest) {
     } = body;
 
     // Validation
-    if (!universityId || !department || !teachingRating || !safetyRating || !reviewText || !yearInfo) {
+    if (!universityId || !department || !teachingRating || !safetyRating || !reviewText) {
       return NextResponse.json(
         { error: "Missing required fields" },
         { status: 400 }
@@ -109,7 +109,7 @@ export async function POST(request: NextRequest) {
       teachingRating: Math.round(teachingRating),
       safetyRating: Math.round(safetyRating),
       reviewText: reviewText.trim(),
-      yearInfo,
+      yearInfo: yearInfo || "Prefer not to say",
       abuseTags: validTags,
       status: "unreviewed",
       upvotes: 0,

@@ -127,7 +127,7 @@ export default function Home() {
             href="/review/new"
             className="inline-block bg-naija-green hover:bg-naija-green-dark text-white px-8 py-3 rounded-lg font-medium transition-colors"
           >
-            Share Your Experience
+            Rate a Lecturer
           </Link>
         </div>
       </section>

@@ -109,7 +109,7 @@ export default function ReviewForm({
     if (!safetyRating) return setError("Please rate safety");
     if (reviewText.trim().length < 20)
       return setError("Review must be at least 20 characters");
-    if (!yearInfo) return setError("Please select your year/level");
+    // yearInfo is optional for maximum anonymity
     if (!agreedToTerms)
       return setError("You must agree to the disclaimer and terms");
 
@@ -359,7 +359,7 @@ export default function ReviewForm({
       {/* Year */}
       <div>
         <label className="block text-sm font-medium text-gray-300 mb-2">
-          Your Year/Level <span className="text-danger">*</span>
+          Your Year/Level <span className="text-gray-600">(optional)</span>
         </label>
         <select
           value={yearInfo}
