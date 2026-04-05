@@ -1,0 +1,5 @@
+action,university_name,acronym,type,state,department
+add_university,Delta State University Agbor,DELSU-AGBOR,state,Delta,Plant Science & Biotechnology
+add_university,Delta State University Agbor,DELSU-AGBOR,state,Delta,Education
+add_department,University of Benin,UNIBEN,,,Plant Science & Biotechnology
+add_department,University of Benin,UNIBEN,,,Crop Science
